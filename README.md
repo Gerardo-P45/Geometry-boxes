@@ -1,1 +1,1 @@
-# Geometry-boxes
+# Box Class
